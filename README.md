@@ -1,4 +1,8 @@
 # Data Analytics Submission
+
+Logan Vasudeva
+Mohsen Razvi
+David Haunschild 
  
 Submission for Data Analytics courswork.
 
